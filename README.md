@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seif</h1>
-<h3 align="center">Epitech student | 1h Year | graduating in 2027</h3>
+<h3 align="center">Epitech student | 1st Year | graduating in 2027</h3>
 
 - 🌱 I’m currently learning **c and c++.**
 
